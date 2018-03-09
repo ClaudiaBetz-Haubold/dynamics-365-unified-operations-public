@@ -57,7 +57,7 @@ To get started with FastTrack for Dynamics 365 for Finance and Operations, you m
 
 | **Number of seats**                                                                         | **Tech talks** | **Workshops**                      | **Touchpoints**   | **FastTrack engineering resources** |
 |-----------------------------------------------------------------------------------------|------------|--------------------------------|---------------|---------------------------------|
-| 20-149 combined eligible App or Plan user subscription licenses, or the equivalent      | **✓**      | Pre Go-live milestone workshop | Not available | Not available                   |
+| 20-149 combined eligible App or Plan user subscription licenses, or the equivalent      | **✓**      |Go-live assessment (email) | Not available | Not available                   |
 | 150 or more combined eligible App or Plan user subscription licenses, or the equivalent | **✓**          | **✓**                              | **✓**             | **✓**                               |
 
 
@@ -81,7 +81,7 @@ FastTrack sessions are scheduled throughout the stages of the project lifecycle.
 |:--------------------------:|:-----------------------------:|:------------------------:|:------------------------------:|:-------------------:|
 |    Bi-weekly touchpoints   |     Bi-weekly touchpoints     |   Bi-weekly touchpoints  |       Weekly touchpoints       |  Weekly touchpoints |
 |            **W 1.1**           |             W 2.2             |           W 3.1          |              **W 4.1**             |        W 5.1        |
-| Pre-kickoff (partner only) | Solution milestone workshop   | Build milestone workshop | Pre go-live milestone workshop | Post go-live review |
+| Pre-kickoff (partner only) | Solution milestone workshop   | Build milestone workshop | Go-live milestone workshop | Post go-live review |
 |            **W 1.2**           |             W 2.1             |           W 3.2          |                                |                     |
 |           Kickoff          | Governance milestone workshop |  Build iterations (CRP)  |                                |                     |
 |            **T 1.1**           |             **T 2.1**             |           **T 3.1**          |                                |                     |
